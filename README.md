@@ -2,6 +2,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<h1 align ="center" color ="White" font = "opensans-bold">
+   Hey😁 ,I'm Shubham.
+</h1>
 
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/shubham-singh-rajput-060b99152/">
@@ -13,24 +16,24 @@
   <a href="https://www.facebook.com/shubham.Kingwar">
     <img src="https://img.shields.io/badge/Personal_website-pink?style=for-the-badge" alt="My website"/>
   </a>
+  
   <br>
   <center>
+   <a href="mailto:Shubham4545788@gmail.com">
+    <img src="https://img.shields.io/badge/Click%20Here-For%20Contact%20Me-blue" alt="Contact ME"/>
+  </a><br>
   <a href = "https://komarev.com/ghpvc/?username=Error404Shubh">
   <img src="https://komarev.com/ghpvc/?username=Error404Shubh&style=flat-square&color=blue" alt="Profile_View"/>
   </a>
   </center>
 </div>
 
-<h1 align ="center" color ="White" font = "opensans-bold">
-   Hey😁 ,I'm Shubham.
-</h1>
 <h2 align = "center" color: "White" background-color = "lightcolor"  border-radius: "6px">
 I'm a Mca Student &amp; Freelancer Front-end and android native developer 
 creating awesome and effective visual identities ,android apps and Websites
  for companies of all sides around the globe. 
   Let's start scrolling and learn more about me😉.
-  <br><hr><center>
-Made With ❤️. By Shubham.</center>
+  <br><hr>
 </h2>
 
 <div align="center">
@@ -62,12 +65,15 @@ I love writing code ,The passion of coding carried me through my education at BI
 
 ### :fire: My Stats :
 
+<hr>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Error404Shubh&hide_border=true&background=AEABD7)](https://git.io/streak-stats)
 
 <!-- <hr>
 
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Error404Shubh&show_icons=true&theme=merko)
 <hr> -->
+<hr>
 
 [![Shubham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Error404Shubh/github-readme-stats)
 
@@ -77,11 +83,13 @@ I love writing code ,The passion of coding carried me through my education at BI
 
 <hr>
 
-### 📝Contact me:
+ <div align ="center" background = "white">
+ 
+  <h4> <b>Made With ❤️. By Shubham </b> </h4>
+</div>
+  
+<hr>
+ 
 
-   <div align="center">   
-     <img src="https://media.giphy.com/media/hHjOpLaawe5rvWvcTn/giphy.gif" width="312" height="150"/>
-    </div>
-    
-  ### CONCLUSION
+ 
   
