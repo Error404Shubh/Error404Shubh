@@ -1,3 +1,4 @@
+<div id = "origin" background = "">
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -21,11 +22,33 @@
   </center>
 </div>
 
-<h1 align ="center">
-   Hey
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px"/>
+<h1 align ="center" color ="White" font = "opensans-bold">
+   Hey😁 ,I'm Shubham.
 </h1>
+<h2 align = "center" color: "White" background-color = "lightcolor"  border-radius: "6px">
+I'm a Mca Student &amp; Freelancer Front-end and android native developer 
+creating awesome and effective visual identities ,android apps and Websites
+ for companies of all sides around the globe. 
+  Let's start scrolling and learn more about me😉.
+  <br><hr><center>
+Made With ❤️. By Shubham.</center>
+</h2>
 
 <div align="center">
-  <img src = "https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif"  width="640" height="320"/>
+  <img src = "https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif"  width="600" height="512"/>
 </div>
+
+### :man_technologist: About Me :
+
+  Hey, My self Shubham aka Error404Shubh. and I am 22 years old , I'm from a beautiful planet named earth 🌍 ,which is situated at 151.8 million Km From The Sun🌞.     Recently,I completed BCA from Birla institute of Technlogy,Mesra ranchi extension center Noida. Currently I am pursuing MCA from Chandigarh University.
+I love writing code ,The passion of coding carried me through my education at BIT. I have Good Knowledge of Front-end development, Machine learning 🤖 and Android Native App development. and I am also Doing Freelancing, ( Android apps Development and ,Front-end Web development. ) in My Free Time.
+      
+     
+
+### 📝 Contact Details:
+     
+
+
+   
+      
+</div>      
