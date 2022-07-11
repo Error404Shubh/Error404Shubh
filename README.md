@@ -13,7 +13,7 @@
   <a href="">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://www.facebook.com/shubham.Kingwar">
+  <a href="http://myselfshubham.unaux.com/index1.html">
     <img src="https://img.shields.io/badge/Personal_website-pink?style=for-the-badge" alt="My website"/>
   </a>
   
