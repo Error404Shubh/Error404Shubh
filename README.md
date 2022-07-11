@@ -21,7 +21,10 @@
   <center>
    <a href="mailto:Shubham4545788@gmail.com">
     <img src="https://img.shields.io/badge/Click%20Here-For%20Contact%20Me-blue" alt="Contact ME"/>
-  </a><br>
+  </a>
+  
+  <br>
+  
   <a href = "https://komarev.com/ghpvc/?username=Error404Shubh">
   <img src="https://komarev.com/ghpvc/?username=Error404Shubh&style=flat-square&color=blue" alt="Profile_View"/>
   </a>
