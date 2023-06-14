@@ -32,7 +32,7 @@
 </div>
 
 <h2 align = "center" color: "White" background-color = "lightcolor"  border-radius: "6px">
-I'm a Mca Student &amp; Freelancer Front-end and android native developer 
+I'm tech enthusiast, &amp; Freelancer Front-end and android developer 
 creating awesome and effective visual identities ,android apps and Websites
  for companies of all sides around the globe. 
   Let's start scrolling and learn more about me😉.
