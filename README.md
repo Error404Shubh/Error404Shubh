@@ -46,7 +46,7 @@ creating awesome and effective visual identities ,android apps and Websites
 <hr>
 
 ### :man_technologist: About Me :
-  Hey, My self Shubham aka Error404Shubh. and I am 22 years old , I'm from a beautiful planet named earth 🌍 ,which is situated at 151.8 million Km From The Sun🌞.     Recently,I completed BCA from Birla institute of Technlogy,Mesra ranchi extension center Noida. Currently I am pursuing MCA from Chandigarh University.
+  Hey, My self Shubham aka Error404Shubh. and I am 23 years old , Recently,I completed MCA from Chandigarh University. Currently I'm working as Associate Software Engineer.
 I love writing code ,The passion of coding carried me through my education at BIT. I have Good Knowledge of Front-end development, Machine learning 🤖 and Android Native App development. and I am also Doing Freelancing, ( Android apps Development and ,Front-end Web development. ) in My Free Time.
 
 <hr>
