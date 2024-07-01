@@ -7,19 +7,19 @@
 </h1>
 
 <div id="badges" align = "center">
-  <a href="https://www.linkedin.com/in/shubham-singh-rajput-060b99152/">
+  <a href="https://www.linkedin.com/in/shubh1203/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="http://myselfshubham.unaux.com/index1.html">
+  <a href="https://error404shubh.github.io/">
     <img src="https://img.shields.io/badge/Personal_website-pink?style=for-the-badge" alt="My website"/>
   </a>
   
   <br>
   <center>
-   <a href="mailto:Shubham4545788@gmail.com">
+   <a href="mailto:Shubham34670@gmail.com">
     <img src="https://img.shields.io/badge/Click%20Here-For%20Contact%20Me-blue" alt="Contact ME"/>
   </a>
   
@@ -46,7 +46,7 @@ creating awesome and effective visual identities ,android apps and Websites
 <hr>
 
 ### :man_technologist: About Me :
-  Hey, My self Shubham aka Error404Shubh. and I am 23 years old , Recently,I completed MCA from Chandigarh University. Currently I'm working as Associate Software Engineer.
+  Hey, My self Shubham aka Error404Shubh. and I am 23 years old ,I completed MCA from Chandigarh University. Currently I'm working as Associate Software Engineer.
 I love writing code ,The passion of coding carried me through my education at BIT. I have Good Knowledge of Front-end development, Machine learning 🤖 and Android Native App development. and I am also Doing Freelancing, ( Android apps Development and ,Front-end Web development. ) in My Free Time.
 
 <hr>
@@ -62,6 +62,10 @@ I love writing code ,The passion of coding carried me through my education at BI
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" title="AWS" alt="AWS" width"40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular JS" alt="Angular JS" width"40" height="40" />
+  
+  
 </div>
 <hr>
 
