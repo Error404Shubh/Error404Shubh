@@ -48,9 +48,8 @@ creating awesome and effective visual identities ,android apps and Websites
 <hr>
 
 ### :man_technologist: About Me :
-  Hey, My self Shubham aka Error404Shubh. and I am 23 years old ,I completed MCA from Chandigarh University. Currently I'm working as Associate Software Engineer.
-I love writing code ,The passion of coding carried me through my education at BIT. I have Good Knowledge of Front-end development, Machine learning 🤖 and Android Native App development. and I am also Doing Freelancing, ( Android apps Development and ,Front-end Web development. ) in My Free Time.
-
+Hi there, I'm Shubham! 👋
+I'm a passionate software engineer with a strong foundation in Front-end development, Machine Learning, and Android Native App development. Currently working as an Associate Software Engineer, I hold a Master's degree in Computer Applications from Chandigarh University. My journey in coding began during my education at BIT, where I honed my skills and developed a deep love for crafting clean, efficient code.
 <hr>
    
 ### :hammer_and_wrench: Languages and Tools :
