@@ -61,18 +61,22 @@ I'm a passionate Software Engineer with a solid foundation in Front-end Developm
 ### :fire: My Stats:
 <div align="center">
   <a href="https://github.com/Error404Shubh">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Error404Shubh&hide_border=true&background=AEABD7" alt="GitHub Streak"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Error404Shubh&hide_border=true&background=AEABD7" alt="GitHub Streak" width="400"/>
   </a>
   <br><br>
   <a href="https://github.com/Error404Shubh/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error404Shubh&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error404Shubh&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="400"/>
   </a>
   <br><br>
   <a href="https://github.com/Error404Shubh/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Error404Shubh&show_icons=true&theme=merko" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Error404Shubh&show_icons=true&theme=merko" alt="GitHub Stats" width="400"/>
   </a>
+  <br><br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Error404Shubh&theme=react-dark" alt="Activity Graph" width="800"/>
 </div>
 <hr>
+
+
 
 <div align="center" style="background: white;">
   <h4><b>Made with ❤️ by Shubham</b></h4>
