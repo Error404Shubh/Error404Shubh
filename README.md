@@ -1,85 +1,158 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=22A699&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+World!+I'm+Shubham+%F0%9F%91%8B;Backend+Engineer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
 </div>
 
-<h1 align="center" style="color: white; font-family: 'Open Sans', sans-serif;">Hey there! 😁 I'm Shubham.</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" height="300" />
+</div>
 
-<div id="badges" align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/shubh1203/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://error404shubh.github.io/">
-    <img src="https://img.shields.io/badge/Personal_website-pink?style=for-the-badge" alt="Portfolio Webpage"/>
-  </a>
-  <br>
   <a href="mailto:Shubham34670@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-blue?style=for-the-badge" alt="Contact Me"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <br>
-  <a href="https://komarev.com/ghpvc/?username=Error404Shubh">
-    <img src="https://komarev.com/ghpvc/?username=Error404Shubh&style=flat-square&color=blue" alt="Profile Views"/>
-  </a>
-</div>
-
-<h2 align="center" style="color: white; background-color: lightgray; border-radius: 6px; padding: 10px;">
-  I'm a tech enthusiast & freelancer focused on creating impactful visual identities, Android apps, and websites for clients worldwide.  
-  Let's dive in and explore more about me! 😉
-  <br><hr>
-</h2>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" width="600" height="512"/>
-</div>
-
-<hr>
-
-### :man_technologist: About Me:
-Hi there! I'm Shubham! 👋  
-I'm a passionate Software Engineer with a solid foundation in Front-end Development, Machine Learning, and Android Native App Development. Currently, I work as an Associate Software Engineer and hold a Master's degree in Computer Applications from Chandigarh University. My coding journey began at BIT, where I developed a deep love for crafting clean, efficient code.
-
-<hr>
-
-### :hammer_and_wrench: Languages and Tools:
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular JS" alt="Angular JS" width="40" height="40"/>
-</div>
-<hr>
-
-### :fire: My Stats:
-<div align="center">
   <a href="https://github.com/Error404Shubh">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Error404Shubh&hide_border=true&background=AEABD7" alt="GitHub Streak" width="400"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <br><br>
-  <a href="https://github.com/Error404Shubh/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error404Shubh&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="400"/>
-  </a>
-  <br><br>
-  <a href="https://github.com/Error404Shubh/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Error404Shubh&show_icons=true&theme=merko" alt="GitHub Stats" width="400"/>
-  </a>
-  <br><br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Error404Shubh&theme=react-dark" alt="Activity Graph" width="800"/>
+</p>
+
+---
+
+## 🚀 Quick Facts
+
+- 🎓 Master's in Computer Applications from Chandigarh University
+- 💼 Backend Engineer with expertise in Python and Cloud Technologies
+- 🌱 Passionate about AI applications and data analysis
+- 🏆 AWS Certified Developer - Associate
+- 🔧 Experienced in developing scalable backend systems and RESTful APIs
+- 🌍 Enjoy collaborating with cross-functional teams on global projects
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
-<hr>
 
+---
 
+## 🌟 Expertise
 
-<div align="center" style="background: white;">
-  <h4><b>Made with ❤️ by Shubham</b></h4>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Backend Development</h3>
+      <p align="center">
+        <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="200" />
+      </p>
+      <ul>
+        <li>RESTful API Design</li>
+        <li>Database Management</li>
+        <li>Scalable Architecture</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">Cloud & DevOps</h3>
+      <p align="center">
+        <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="200" />
+      </p>
+      <ul>
+        <li>AWS Lambda</li>
+        <li>GCP Services</li>
+        <li>CI/CD Pipelines</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">AI & Data Analysis</h3>
+      <p align="center">
+        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" />
+      </p>
+      <ul>
+        <li>Machine Learning Integration</li>
+        <li>Data Processing</li>
+        <li>Predictive Analytics</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">Testing & Quality Assurance</h3>
+      <p align="center">
+        <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="200" />
+      </p>
+      <ul>
+        <li>Unit Testing</li>
+        <li>Integration Testing</li>
+        <li>Test Automation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Error404Shubh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error404Shubh&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Error404Shubh&theme=algolia" alt="Error404Shubh" />
+</p>
+
+---
+
+## 🎵 Currently Working On
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" />
+</p>
+
+- 🤖 Enhancing AI-powered chatbots for improved user interactions
+- 🚀 Optimizing backend systems for scalability and performance
+- 📊 Developing data analysis tools with cutting-edge technologies
+- 🌐 Exploring serverless architectures for efficient cloud deployments
+
+---
+
+<details>
+  <summary>📌 More About Me</summary>
+  <br>
+  <p>
+    As a backend engineer, I'm passionate about creating robust and efficient systems that power innovative applications. My experience spans from developing AI-integrated backends to implementing cloud-native solutions. I thrive on challenges and continuously seek to expand my technical expertise.
+
+    I believe in the power of technology to solve complex problems and make a positive impact. Whether it's optimizing data processing pipelines or designing scalable architectures, I approach each project with enthusiasm and a commitment to excellence.
+
+    When I'm not coding, you can find me exploring the latest tech trends, contributing to open-source projects, or mentoring aspiring developers. I'm always open to collaborating on exciting projects or discussing innovative ideas in software development.
+  </p>
+</details>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with fellow developers and tech enthusiasts!</b> If you want to discuss technology, share ideas, or collaborate on a project, <b>feel free to reach out!</b> 😊</em>
 </div>
 
-<hr>
+---
+
+<div align="center">
+  <p>Made with 💖. By Shubham</p>
+</div>
