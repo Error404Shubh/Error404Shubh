@@ -158,7 +158,5 @@
 ---
 
 <div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
+ <p>Made with 💖. By Shubham</p>
 </div>
