@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=22A699&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+World!+I'm+Shubham+%F0%9F%91%8B;Backend+Engineer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=22A699&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+World!+I'm+Shubham+%F0%9F%91%8B;Backend+Engineer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Mountain+Traveler+%F0%9F%8F%94%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" height="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
 </div>
 
 <p align="center">
@@ -28,6 +28,7 @@
 - 🏆 AWS Certified Developer - Associate
 - 🔧 Experienced in developing scalable backend systems and RESTful APIs
 - 🌍 Enjoy collaborating with cross-functional teams on global projects
+- 🏔️ When not coding, you'll find me exploring mountains and nature trails
 
 ---
 
@@ -59,7 +60,7 @@
     <td width="50%">
       <h3 align="center">Backend Development</h3>
       <p align="center">
-        <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="200" />
+        <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" />
       </p>
       <ul>
         <li>RESTful API Design</li>
@@ -70,7 +71,7 @@
     <td width="50%">
       <h3 align="center">Cloud & DevOps</h3>
       <p align="center">
-        <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="200" />
+        <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="200" />
       </p>
       <ul>
         <li>AWS Lambda</li>
@@ -83,7 +84,7 @@
     <td width="50%">
       <h3 align="center">AI & Data Analysis</h3>
       <p align="center">
-        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" />
+        <img src="https://media.giphy.com/media/8fRwPZtbWkkX6/giphy.gif" width="200" />
       </p>
       <ul>
         <li>Machine Learning Integration</li>
@@ -94,7 +95,7 @@
     <td width="50%">
       <h3 align="center">Testing & Quality Assurance</h3>
       <p align="center">
-        <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="200" />
+        <img src="https://media.giphy.com/media/BXVRf5GyMlElO/giphy.gif" width="200" />
       </p>
       <ul>
         <li>Unit Testing</li>
@@ -123,7 +124,7 @@
 ## 🎵 Currently Working On
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300" />
 </p>
 
 - 🤖 Enhancing AI-powered chatbots for improved user interactions
@@ -141,18 +142,24 @@
 
     I believe in the power of technology to solve complex problems and make a positive impact. Whether it's optimizing data processing pipelines or designing scalable architectures, I approach each project with enthusiasm and a commitment to excellence.
 
-    When I'm not coding, you can find me exploring the latest tech trends, contributing to open-source projects, or mentoring aspiring developers. I'm always open to collaborating on exciting projects or discussing innovative ideas in software development.
+    When I'm not immersed in code, you'll likely find me scaling mountain peaks or trekking through scenic trails. This passion for outdoor adventure not only refreshes my mind but also inspires creative problem-solving in my technical work. The perseverance and strategic thinking required in mountaineering often translate into tackling complex coding challenges.
+
+    I'm always open to collaborating on exciting projects or discussing innovative ideas in software development. Let's connect and create something amazing together!
   </p>
 </details>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with fellow developers and tech enthusiasts!</b> If you want to discuss technology, share ideas, or collaborate on a project, <b>feel free to reach out!</b> 😊</em>
+  <img src="https://media.giphy.com/media/RiDHreG0MnXuOD3yLt/giphy.gif" width="200"> 
+  <br>
+  <em><b>If you can't find me coding, I'm probably out exploring mountains!</b></em>
 </div>
 
 ---
 
 <div align="center">
-  <p>Made with 💖. By Shubham</p>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
 </div>
