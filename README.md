@@ -151,9 +151,8 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RiDHreG0MnXuOD3yLt/giphy.gif" width="200"> 
   <br>
-  <em><b>If you can't find me coding, I'm probably out exploring mountains!</b></em>
+  <em><b>If you can't find me coding, I'm probably out exploring mountains! (Part Time Traveller🏔️, Full time Programmer)</b></em>
 </div>
 
 ---
