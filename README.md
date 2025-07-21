@@ -109,16 +109,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Error404Shubh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error404Shubh&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Error404Shubh&theme=algolia" alt="Error404Shubh" />
-</p>
 
 ---
 
