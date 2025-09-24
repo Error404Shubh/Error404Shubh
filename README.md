@@ -53,25 +53,8 @@
 
 ---
 
-## 📊 GitHub Stats & Contribution
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Error404Shubh&show_icons=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Error404Shubh&hide_border=true&layout=compact&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Error404Shubh&theme=radical" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Error404Shubh&theme=radical&no-frame=true" alt="Trophies"/>
-</div>
-
----
-
 ## 🌟 Expertise
-<div align="center">
+<div  align="center" >
 <table>
   <tr>
     <td width="50%">
@@ -123,6 +106,9 @@
   </tr>
 </table>
 </div>
+
+---
+
 
 ---
 
